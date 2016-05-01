@@ -3,19 +3,19 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Hexo</title>
+  <title>Jeffrey H.</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="A Coder. Maybe.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Hexo">
+<meta property="og:title" content="Jeffrey H.">
 <meta property="og:url" content="http://yoursite.com/index.html">
-<meta property="og:site_name" content="Hexo">
+<meta property="og:site_name" content="Jeffrey H.">
 <meta property="og:description" content="A Coder. Maybe.">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Hexo">
+<meta name="twitter:title" content="Jeffrey H.">
 <meta name="twitter:description" content="A Coder. Maybe.">
   
-    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+    <link rel="alternate" href="/atom.xml" title="Jeffrey H." type="application/atom+xml">
   
   
     <link rel="icon" href="/favicon.png">
@@ -36,7 +36,7 @@
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
       <h1 id="logo-wrap">
-        <a href="/" id="logo">Hexo</a>
+        <a href="/" id="logo">Jeffrey H.</a>
       </h1>
       
     </div>
@@ -99,7 +99,59 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2016/04/29/hello-world/" data-id="cinlikkk300009fsnszdqhw3f" class="article-share-link">Share</a>
+      <a data-url="http://yoursite.com/2016/04/29/hello-world/" data-id="cinotzs4z0000lpsne75vaz11" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+  
+    <article id="post-unix" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2016/04/29/unix/" class="article-date">
+  <time datetime="2016-04-29T01:26:13.000Z" itemprop="datePublished">2016-04-29</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2016/04/29/unix/">unix</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>ufw</p>
+<p>sudo apt-get install ufw</p>
+<p>sudo ufw enable<br>sudo ufw allow ssh<br>sudo ufw allow 22<br>sudo ufw allow http<br>sudo ufw allow https<br>sudo ufw allow 3000</p>
+<p>sudo ufw deny http</p>
+<p>sudo ufw status</p>
+<p>$ vi /etc/ssh/sshd_config</p>
+<p>PermitRootLogin no<br>PubkeyAuthentication no<br>AllowUsers ramesh john jason<br>Port 222</p>
+<p>server timezone</p>
+<p>sudo dpkg-reconfigure tzdata</p>
+<p>Filter for brute-force interactive SSH logins<br>grep sshd.*Failed /var/log/auth.log | less</p>
+<p>Look for failed connections (i.e. no login attempted, could be a port scanner, etc.):<br>grep sshd.*Did /var/log/auth.log | less</p>
+<p>sudo apt-get install fail2ban</p>
+<p>/etc/apache2/pache2.conf</p>
+<directory var="" www=""><br>    Options Indexes FollowSymLinks<br>    AllowOverride All<br>    Require all granted<br></directory>
+
+<p>sudo a2enmod rewrite<br>sudo service apache2 restart</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2016/04/29/unix/" data-id="cinotzs5e0002lpsnm95ux5zk" class="article-share-link">Share</a>
       
       
     </footer>
@@ -137,7 +189,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2016/04/29/hexo/" data-id="cinlikkkr00019fsnqy3ny7tt" class="article-share-link">Share</a>
+      <a data-url="http://yoursite.com/2016/04/29/hexo/" data-id="cinotzs590001lpsnjsqkjds0" class="article-share-link">Share</a>
       
       
     </footer>
@@ -178,6 +230,10 @@
         
           <li>
             <a href="/2016/04/29/hello-world/">Hello World</a>
+          </li>
+        
+          <li>
+            <a href="/2016/04/29/unix/">unix</a>
           </li>
         
           <li>

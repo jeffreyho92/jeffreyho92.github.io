@@ -3,17 +3,36 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Archives: 2016 | Jeffrey H.</title>
+  <title>unix | Jeffrey H.</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="A Coder. Maybe.">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Jeffrey H.">
-<meta property="og:url" content="http://yoursite.com/archives/2016/index.html">
+  <meta name="description" content="ufw
+sudo apt-get install ufw
+sudo ufw enablesudo ufw allow sshsudo ufw allow 22sudo ufw allow httpsudo ufw allow httpssudo ufw allow 3000
+sudo ufw deny http
+sudo ufw status
+$ vi /etc/ssh/sshd_config
+P">
+<meta property="og:type" content="article">
+<meta property="og:title" content="unix">
+<meta property="og:url" content="http://yoursite.com/2016/04/29/unix/index.html">
 <meta property="og:site_name" content="Jeffrey H.">
-<meta property="og:description" content="A Coder. Maybe.">
+<meta property="og:description" content="ufw
+sudo apt-get install ufw
+sudo ufw enablesudo ufw allow sshsudo ufw allow 22sudo ufw allow httpsudo ufw allow httpssudo ufw allow 3000
+sudo ufw deny http
+sudo ufw status
+$ vi /etc/ssh/sshd_config
+P">
+<meta property="og:updated_time" content="2016-04-29T09:39:23.217Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Jeffrey H.">
-<meta name="twitter:description" content="A Coder. Maybe.">
+<meta name="twitter:title" content="unix">
+<meta name="twitter:description" content="ufw
+sudo apt-get install ufw
+sudo ufw enablesudo ufw allow sshsudo ufw allow 22sudo ufw allow httpsudo ufw allow httpssudo ufw allow 3000
+sudo ufw deny http
+sudo ufw status
+$ vi /etc/ssh/sshd_config
+P">
   
     <link rel="alternate" href="/atom.xml" title="Jeffrey H." type="application/atom+xml">
   
@@ -62,77 +81,76 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main">
-  
-  
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2016" class="archive-year">2016</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2016/04/29/hello-world/" class="archive-article-date">
-  <time datetime="2016-04-29T08:27:17.880Z" itemprop="datePublished">Apr 29</time>
+        <section id="main"><article id="post-unix" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2016/04/29/unix/" class="article-date">
+  <time datetime="2016-04-29T01:26:13.000Z" itemprop="datePublished">2016-04-29</time>
 </a>
-      
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2016/04/29/hello-world/">Hello World</a>
+    <h1 class="article-title" itemprop="name">
+      unix
     </h1>
   
 
-    </header>
-  </div>
-</article>
-  
+      </header>
     
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2016/04/29/unix/" class="archive-article-date">
-  <time datetime="2016-04-29T01:26:13.000Z" itemprop="datePublished">Apr 29</time>
-</a>
+    <div class="article-entry" itemprop="articleBody">
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2016/04/29/unix/">unix</a>
-    </h1>
-  
+        <p>ufw</p>
+<p>sudo apt-get install ufw</p>
+<p>sudo ufw enable<br>sudo ufw allow ssh<br>sudo ufw allow 22<br>sudo ufw allow http<br>sudo ufw allow https<br>sudo ufw allow 3000</p>
+<p>sudo ufw deny http</p>
+<p>sudo ufw status</p>
+<p>$ vi /etc/ssh/sshd_config</p>
+<p>PermitRootLogin no<br>PubkeyAuthentication no<br>AllowUsers ramesh john jason<br>Port 222</p>
+<p>server timezone</p>
+<p>sudo dpkg-reconfigure tzdata</p>
+<p>Filter for brute-force interactive SSH logins<br>grep sshd.*Failed /var/log/auth.log | less</p>
+<p>Look for failed connections (i.e. no login attempted, could be a port scanner, etc.):<br>grep sshd.*Did /var/log/auth.log | less</p>
+<p>sudo apt-get install fail2ban</p>
+<p>/etc/apache2/pache2.conf</p>
+<directory var="" www=""><br>    Options Indexes FollowSymLinks<br>    AllowOverride All<br>    Require all granted<br></directory>
 
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2016/04/29/hexo/" class="archive-article-date">
-  <time datetime="2016-04-29T01:21:34.000Z" itemprop="datePublished">Apr 29</time>
-</a>
+<p>sudo a2enmod rewrite<br>sudo service apache2 restart</p>
+
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2016/04/29/hexo/">hexo</a>
-    </h1>
-  
-
-    </header>
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2016/04/29/unix/" data-id="cinotzs5e0002lpsnm95ux5zk" class="article-share-link">Share</a>
+      
+      
+    </footer>
   </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2016/04/29/hello-world/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          Hello World
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2016/04/29/hexo/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">hexo</div>
+    </a>
+  
+</nav>
+
+  
 </article>
-  
-  
-    </div></section>
-  
 
 </section>
         
