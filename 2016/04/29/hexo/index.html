@@ -98,7 +98,7 @@ themes/next/source/js/src/motion.js123456sidebar: function (integrator) &amp;#12
 Short cut: hexo g -d
 grep -rl ‘displaySidebar’ themes/next/
 themes/next/source/js/src/motion.js123456sidebar: function (integrator) &amp;#123;  //">
-<meta property="og:updated_time" content="2016-05-02T05:00:47.372Z">
+<meta property="og:updated_time" content="2016-05-02T05:17:56.763Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="hexo">
 <meta name="twitter:description" content="1hexo clean
@@ -114,7 +114,7 @@ themes/next/source/js/src/motion.js123456sidebar: function (integrator) &amp;#12
   var NexT = window.NexT || {};
   var CONFIG = {
     scheme: 'Muse',
-    sidebar: {"position":"left","display":"post"},
+    sidebar: {"position":"right","display":"always"},
     fancybox: true,
     motion: true,
     duoshuo: {
@@ -145,7 +145,7 @@ themes/next/source/js/src/motion.js123456sidebar: function (integrator) &amp;#12
     
   
 
-  <div class="container one-collumn sidebar-position-left page-post-detail ">
+  <div class="container one-collumn sidebar-position-right page-post-detail ">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -295,6 +295,11 @@ themes/next/source/js/src/motion.js123456sidebar: function (integrator) &amp;#12
 <p>npm install hexo-generator-feed –save<br>npm install hexo-generator-sitemap@1.0.0 –save</p>
 <p>_config.yml<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">theme: next</span><br><span class="line"></span><br><span class="line">sitemap:</span><br><span class="line">  path: sitemap.xml</span><br><span class="line"></span><br><span class="line">feed:</span><br><span class="line">  path: atom.xml</span><br></pre></td></tr></table></figure></p>
 <p>npm update<br>hexo g -d</p>
+<p>NexT theme</p>
+<h1 id="Schemes"><a href="#Schemes" class="headerlink" title="Schemes"></a>Schemes</h1><p>scheme: Muse</p>
+<h1 id="Sidebar"><a href="#Sidebar" class="headerlink" title="Sidebar"></a>Sidebar</h1><p>display: always</p>
+<p>highlight_theme: night eighties</p>
+<p>hexo clean<br>hexo g -d</p>
 
       
     </div>
@@ -431,7 +436,7 @@ themes/next/source/js/src/motion.js123456sidebar: function (integrator) &amp;#12
               
             
             
-              <p class="post-toc-empty">This post does not have a Table of Contents</p>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Schemes"><span class="nav-number">1.</span> <span class="nav-text">Schemes</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Sidebar"><span class="nav-number">2.</span> <span class="nav-text">Sidebar</span></a></li></ol></div>
             
           </div>
         </section>

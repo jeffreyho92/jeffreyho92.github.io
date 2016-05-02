@@ -83,7 +83,7 @@
     <link href="http://yoursite.com/2016/04/29/hexo/"/>
     <id>http://yoursite.com/2016/04/29/hexo/</id>
     <published>2016-04-29T01:21:34.000Z</published>
-    <updated>2016-05-02T05:00:47.372Z</updated>
+    <updated>2016-05-02T05:17:56.763Z</updated>
     
     <content type="html">&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo clean&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo generate / hexo g&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -96,6 +96,11 @@
 &lt;p&gt;npm install hexo-generator-feed –save&lt;br&gt;npm install hexo-generator-sitemap@1.0.0 –save&lt;/p&gt;
 &lt;p&gt;_config.yml&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;theme: next&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;sitemap:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  path: sitemap.xml&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;feed:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  path: atom.xml&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;npm update&lt;br&gt;hexo g -d&lt;/p&gt;
+&lt;p&gt;NexT theme&lt;/p&gt;
+&lt;h1 id=&quot;Schemes&quot;&gt;&lt;a href=&quot;#Schemes&quot; class=&quot;headerlink&quot; title=&quot;Schemes&quot;&gt;&lt;/a&gt;Schemes&lt;/h1&gt;&lt;p&gt;scheme: Muse&lt;/p&gt;
+&lt;h1 id=&quot;Sidebar&quot;&gt;&lt;a href=&quot;#Sidebar&quot; class=&quot;headerlink&quot; title=&quot;Sidebar&quot;&gt;&lt;/a&gt;Sidebar&lt;/h1&gt;&lt;p&gt;display: always&lt;/p&gt;
+&lt;p&gt;highlight_theme: night eighties&lt;/p&gt;
+&lt;p&gt;hexo clean&lt;br&gt;hexo g -d&lt;/p&gt;
 </content>
     
     <summary type="html">
