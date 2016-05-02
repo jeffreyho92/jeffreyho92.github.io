@@ -491,15 +491,16 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy / hexo d</span><br></pre></td></tr></table></figure>
 <p>Short cut: hexo g -d</p>
 <p>grep -rl ‘displaySidebar’ themes/next/</p>
-<p>themes/next/source/js/src/motion.js<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">sidebar: function (integrator) &#123;</span><br><span class="line">  //if (CONFIG.sidebar.display === &apos;always&apos;) &#123;</span><br><span class="line">    NexT.utils.displaySidebar();</span><br><span class="line">  //&#125;</span><br><span class="line">  integrator.next();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
-<p>themes/next/source/js/src/post-details.js<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">NexT.motion.middleWares.sidebar = function () &#123;</span><br><span class="line">    var $tocContent = $(&apos;.post-toc-content&apos;);</span><br><span class="line"></span><br><span class="line">    //if (CONFIG.sidebar.display === &apos;post&apos; || CONFIG.sidebar.display === &apos;always&apos;) &#123;</span><br><span class="line">      if ($tocContent.length &gt; 0 &amp;&amp; $tocContent.html().trim().length &gt; 0) &#123;</span><br><span class="line">        NexT.utils.displaySidebar();</span><br><span class="line">      &#125;</span><br><span class="line">    //&#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure></p>
+<p>themes/next/source/js/src/motion.js<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">sidebar: <span class="function"><span class="keyword">function</span> (<span class="params">integrator</span>) </span>&#123;</span><br><span class="line">  <span class="comment">//if (CONFIG.sidebar.display === 'always') &#123;</span></span><br><span class="line">    NexT.utils.displaySidebar();</span><br><span class="line">  <span class="comment">//&#125;</span></span><br><span class="line">  integrator.next();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p>themes/next/source/js/src/post-details.js<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">NexT.motion.middleWares.sidebar = <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">var</span> $tocContent = $(<span class="string">'.post-toc-content'</span>);</span><br><span class="line"></span><br><span class="line">    <span class="comment">//if (CONFIG.sidebar.display === 'post' || CONFIG.sidebar.display === 'always') &#123;</span></span><br><span class="line">      <span class="keyword">if</span> ($tocContent.length &gt; <span class="number">0</span> &amp;&amp; $tocContent.html().trim().length &gt; <span class="number">0</span>) &#123;</span><br><span class="line">        NexT.utils.displaySidebar();</span><br><span class="line">      &#125;</span><br><span class="line">    <span class="comment">//&#125;</span></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure></p>
 <p>hexo g -d</p>
 <p>npm install hexo-generator-feed –save<br>npm install hexo-generator-sitemap@1.0.0 –save</p>
-<p>_config.yml<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">theme: next</span><br><span class="line"></span><br><span class="line">sitemap:</span><br><span class="line">  path: sitemap.xml</span><br><span class="line"></span><br><span class="line">feed:</span><br><span class="line">  path: atom.xml</span><br></pre></td></tr></table></figure></p>
+<p>_config.yml<br><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">theme:</span> next</span><br><span class="line"></span><br><span class="line"><span class="attr">sitemap:</span></span><br><span class="line"><span class="attr">  path:</span> sitemap.xml</span><br><span class="line"></span><br><span class="line"><span class="attr">feed:</span></span><br><span class="line"><span class="attr">  path:</span> atom.xml</span><br></pre></td></tr></table></figure></p>
 <p>npm update<br>hexo g -d</p>
 <p>NexT theme</p>
 <h1 id="Schemes"><a href="#Schemes" class="headerlink" title="Schemes"></a>Schemes</h1><p>scheme: Muse</p>
 <h1 id="Sidebar"><a href="#Sidebar" class="headerlink" title="Sidebar"></a>Sidebar</h1><p>display: always</p>
+<p>avatar:<br>  /images/avatar.png</p>
 <p>highlight_theme: night eighties</p>
 <p>hexo clean<br>hexo g -d</p>
 
@@ -578,6 +579,13 @@
 
           
 
+          
+            <div class="site-state-item site-state-tags">
+              <a href="/tags">
+                <span class="site-state-item-count">2</span>
+                <span class="site-state-item-name">tags</span>
+              </a>
+            </div>
           
 
         </nav>
