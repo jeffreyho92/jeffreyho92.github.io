@@ -58,7 +58,7 @@
     <link href="http://yoursite.com/2016/04/29/hexo/"/>
     <id>http://yoursite.com/2016/04/29/hexo/</id>
     <published>2016-04-29T01:21:34.000Z</published>
-    <updated>2016-05-02T06:42:52.336Z</updated>
+    <updated>2016-05-02T06:54:27.743Z</updated>
     
     <content type="html">&lt;h1 id=&quot;hexo-3&quot;&gt;&lt;a href=&quot;#hexo-3&quot; class=&quot;headerlink&quot; title=&quot;hexo 3&quot;&gt;&lt;/a&gt;hexo 3&lt;/h1&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo clean&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo generate / hexo g&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -77,8 +77,9 @@
 &lt;p&gt;avatar:&lt;br&gt;  /images/avatar.png&lt;/p&gt;
 &lt;p&gt;highlight_theme: night eighties&lt;/p&gt;
 &lt;p&gt;hexo clean&lt;br&gt;hexo g -d&lt;/p&gt;
-&lt;p&gt;hexo new page “tags”&lt;/p&gt;
-</content>
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo new page &lt;span class=&quot;string&quot;&gt;&quot;tags&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;title: All tags&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;date: 2014-12-22 12:39:04&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;type: &amp;quot;tags&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;---&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;menu:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  home: /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  archives: /archives&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  tags: /tags&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
     
     <summary type="html">
     
