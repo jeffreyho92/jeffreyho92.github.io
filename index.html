@@ -69,6 +69,8 @@
 
 
 
+  
+
 
   <link rel="alternate" href="/atom.xml" title="Jeffrey H." type="application/atom+xml" />
 
@@ -88,9 +90,9 @@
 <meta property="og:url" content="https://thejeffrey.me/index.html">
 <meta property="og:site_name" content="Jeffrey H.">
 <meta property="og:description" content="A Coder. Maybe(2016). Yes(Present).">
+<meta property="og:locale" content="en_US">
+<meta property="article:author" content="Jeffrey H.">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Jeffrey H.">
-<meta name="twitter:description" content="A Coder. Maybe(2016). Yes(Present).">
 
 
 
@@ -109,7 +111,7 @@
 </script>
 
   <title> Jeffrey H. </title>
-</head>
+<meta name="generator" content="Hexo 4.2.0"></head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="en">
 
@@ -209,6 +211,103 @@
           <div id="content" class="content">
             
   <section id="posts" class="posts-expand">
+    
+      
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
+                <a class="post-title-link" href="/2020/04/04/purchase-request-in-a-manufacturing-company/" itemprop="url">
+                  Purchase Request in a manufacturing company
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">Posted on</span>
+            <time itemprop="dateCreated" datetime="2020-04-04T23:30:00+08:00" content="2020-04-04">
+              2020-04-04
+            </time>
+          </span>
+
+          
+
+          
+            
+          
+
+          
+
+          
+          
+
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p>I have been working in a manufacturing company (Panasonic) as an in-house software developer. The scopes of in-house software are supporting internal business workflows, improve productivity and increase product quality. Since all software is used by our employees, so as a software developer, I have to understand our company’s business workflows and what are they doing in each department.</p>
+<p>I still can remember when I had been assigned to support a Purchase Request system. I have to work with the Corporate Purchasing Department. I did the feasibility study of purchasing workflow. It is quite a complicated workflow involved clerk, purchaser, administrator, and vendor. A purchase request basically can split into two categories which are Regular Request and Ad-hoc Request. The Regular Request is repeatable every week or every month, so it has a fixed vendor. The Ad-hoc Request is a special request like ordering a machine or purchase a service. The ad-hoc request needs management to approve and get acknowledgment.</p>
+<p>In order to get a clear idea of the process, I have to follow the purchaser run through the whole process, like a clerk submit a request form to request purchase, the administrator verifies the request and gets approval from management. Finance has to approve the request then the purchaser submits a purchase order to the vendor and gets the delivery timeline from the vendor. Each of the workflows needed a clear vision and well designed in the system.</p>
+<p>I realized that every department is working as a chain that links with each other. It required a lot of communication and good cooperation between each employee. As a software developer, I have to communicate with people coming from different backgrounds, get experience from them and sometimes I have to learn how to convince them when needed.</p>
+
+          
+        
+      
+    </div>
+    
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
     
       
 
@@ -680,7 +779,7 @@
 <p>Look for failed connections (i.e. no login attempted, could be a port scanner, etc.):<br>grep sshd.*Did /var/log/auth.log | less</p>
 <p>sudo apt-get install fail2ban</p>
 <p>/etc/apache2/pache2.conf</p>
-<directory var="" www=""><br>    Options Indexes FollowSymLinks<br>    AllowOverride All<br>    Require all granted<br></directory>
+&lt;Directory /var/www/&gt;<br>    Options Indexes FollowSymLinks<br>    AllowOverride All<br>    Require all granted<br></Directory>
 
 <p>sudo a2enmod rewrite<br>sudo service apache2 restart</p>
 
@@ -779,19 +878,19 @@
             <h1 id="hexo-3"><a href="#hexo-3" class="headerlink" title="hexo 3"></a>hexo 3</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate / hexo g</span><br></pre></td></tr></table></figure>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy / hexo d</span><br></pre></td></tr></table></figure>
-<p>Short cut:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g <span class="_">-d</span></span><br></pre></td></tr></table></figure></p>
+<p>Short cut:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g -d</span><br></pre></td></tr></table></figure></p>
 <h2 id="Static-Sidebar"><a href="#Static-Sidebar" class="headerlink" title="Static Sidebar"></a>Static Sidebar</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">grep -rl <span class="string">'displaySidebar'</span> themes/next/</span><br></pre></td></tr></table></figure>
 <h3 id="comment-the-code"><a href="#comment-the-code" class="headerlink" title="comment the code"></a>comment the code</h3><p>themes/next/source/js/src/motion.js<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">sidebar: <span class="function"><span class="keyword">function</span> (<span class="params">integrator</span>) </span>&#123;</span><br><span class="line">  <span class="comment">//if (CONFIG.sidebar.display === 'always') &#123;</span></span><br><span class="line">    NexT.utils.displaySidebar();</span><br><span class="line">  <span class="comment">//&#125;</span></span><br><span class="line">  integrator.next();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
 <p>themes/next/source/js/src/post-details.js<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">NexT.motion.middleWares.sidebar = <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">var</span> $tocContent = $(<span class="string">'.post-toc-content'</span>);</span><br><span class="line"></span><br><span class="line">    <span class="comment">//if (CONFIG.sidebar.display === 'post' || CONFIG.sidebar.display === 'always') &#123;</span></span><br><span class="line">      <span class="keyword">if</span> ($tocContent.length &gt; <span class="number">0</span> &amp;&amp; $tocContent.html().trim().length &gt; <span class="number">0</span>) &#123;</span><br><span class="line">        NexT.utils.displaySidebar();</span><br><span class="line">      &#125;</span><br><span class="line">    <span class="comment">//&#125;</span></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure></p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g <span class="_">-d</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>
 <h2 id="add-on-for-hexo"><a href="#add-on-for-hexo" class="headerlink" title="add-on for hexo"></a>add-on for hexo</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-feed --save</span><br><span class="line">npm install hexo-generator-sitemap@1.0.0 --save</span><br></pre></td></tr></table></figure>
-<p>__dir/_config.yml<br><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">theme:</span> next</span><br><span class="line"></span><br><span class="line"><span class="attr">sitemap:</span></span><br><span class="line"><span class="attr">  path:</span> sitemap.xml</span><br><span class="line"></span><br><span class="line"><span class="attr">feed:</span></span><br><span class="line"><span class="attr">  path:</span> atom.xml</span><br></pre></td></tr></table></figure></p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm update</span><br><span class="line">hexo g <span class="_">-d</span></span><br></pre></td></tr></table></figure>
-<h2 id="NexT-theme"><a href="#NexT-theme" class="headerlink" title="NexT theme"></a>NexT theme</h2><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"># Schemes</span><br><span class="line">scheme: Muse</span><br><span class="line"># Sidebar</span><br><span class="line">display: always</span><br><span class="line"></span><br><span class="line">avatar:</span><br><span class="line">  /images/avatar.png</span><br><span class="line"></span><br><span class="line">highlight_theme: night eighties</span><br></pre></td></tr></table></figure>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g <span class="_">-d</span></span><br></pre></td></tr></table></figure>
+<p>__dir/_config.yml<br><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">next</span></span><br><span class="line"></span><br><span class="line"><span class="attr">sitemap:</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">sitemap.xml</span></span><br><span class="line"></span><br><span class="line"><span class="attr">feed:</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">atom.xml</span></span><br></pre></td></tr></table></figure></p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm update</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>
+<h2 id="NexT-theme"><a href="#NexT-theme" class="headerlink" title="NexT theme"></a>NexT theme</h2><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"># Schemes</span><br><span class="line">scheme: Muse</span><br><span class="line"># Sidebar</span><br><span class="line">display: always</span><br><span class="line"></span><br><span class="line">avatar:</span><br><span class="line">  /images/avatar.png</span><br><span class="line"></span><br><span class="line">highlight_theme: night eighties</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page <span class="string">"tags"</span></span><br></pre></td></tr></table></figure>
 <p>tags\index.md<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">title: All tags</span><br><span class="line">date: 2014-12-22 12:39:04</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure></p>
-<p>themes/_config.yml<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  home: /</span><br><span class="line">  archives: /archives</span><br><span class="line">  tags: /tags</span><br></pre></td></tr></table></figure></p>
+<p>themes/_config.yml<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  home: &#x2F;</span><br><span class="line">  archives: &#x2F;archives</span><br><span class="line">  tags: &#x2F;tags</span><br></pre></td></tr></table></figure></p>
 
           
         
@@ -861,7 +960,7 @@
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/archives">
-              <span class="site-state-item-count">6</span>
+              <span class="site-state-item-count">7</span>
               <span class="site-state-item-name">posts</span>
             </a>
           </div>
@@ -871,7 +970,7 @@
           
             <div class="site-state-item site-state-tags">
               <a href="/tags">
-                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-count">4</span>
                 <span class="site-state-item-name">tags</span>
               </a>
             </div>
@@ -923,12 +1022,12 @@
 </div>
 
 <div class="powered-by">
-  Powered by <a class="theme-link" href="http://hexo.io">Hexo</a>
+  Powered by <a class="theme-link" href="http://hexo.io" target="_blank" rel="noopener">Hexo</a>
 </div>
 
 <div class="theme-info">
   Theme -
-  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next" target="_blank" rel="noopener">
     NexT.Muse
   </a>
 </div>
