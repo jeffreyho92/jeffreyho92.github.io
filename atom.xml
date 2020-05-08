@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-05-02T15:49:59.681Z</updated>
+  <updated>2020-05-08T15:38:00.433Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Configuration Business in a manufacturing company</title>
+    <link href="https://thejeffrey.me/2020/05/08/configuration-business-in-a-manufacturing-company/"/>
+    <id>https://thejeffrey.me/2020/05/08/configuration-business-in-a-manufacturing-company/</id>
+    <published>2020-05-08T14:30:00.000Z</published>
+    <updated>2020-05-08T15:38:00.433Z</updated>
+    
+    <content type="html"><![CDATA[<p>Configuration Business in a manufacturing company</p><p>Back then in 2016, I was working in Panasonic Senai for about one year. My company just started a new department with a new business modal which is C&amp;R, C&amp;R stands for Configuration and Repair. This business is focused on support Panasonic’s laptop and tablet which are TOUGHBOOK and TOUGHPAD. They do the customize configuration for the new devices such as install GPS sensors or upgrade software and OS. And the repair team will focus on repair customer’s TOUGHBOOK such as hardware that broken or spoilt. </p><p>There is a huge demand from oversea counties like the UK and the US. Panasonic in the UK has a company which doing the same thing as C&amp;R but the labor costs are very high, so we have the cost advantage in Malaysia. Most of the new devices are produced in Taiwan, then they will ship to us and do configuration before send out to customers.</p><p>The complicated part of this business is in the inventory. Since we can’t stock all the configuration parts and devices, so we have to keep track of the Sales Order to do the forecast for goods requests and orders. C&amp;R members have to make sure all the parts are getting ready on time when the devices have arrived and start doing configuration immediately and ship out in short timing. </p><p>This business was authorized by Panasonic Japan, they sent some people from Japan to here to set up the production environment and give training for C&amp;R members. C&amp;R members have to follow the SOP that given by Japan and follow the documentation for each operation.</p><p>We also have a new system developed by Japan members and implemented in C&amp;R, this system will help us to manage all the production process and workflow. I had been assigned to maintain this system and do the enhancement on our own, so I have to fully understand the whole business process in each workflow. </p><p>This allowed me to learn something new from Japan members and the business model that is not often seen in the market.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Configuration Business in a manufacturing company&lt;/p&gt;
+&lt;p&gt;Back then in 2016, I was working in Panasonic Senai for about one year. My compa
+      
+    
+    </summary>
+    
+    
+      <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
+    
+      <category term="B2B" scheme="https://thejeffrey.me/tags/B2B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Logistics in a manufacturing company</title>
     <link href="https://thejeffrey.me/2020/05/02/logistics-in-a-manufacturing-company/"/>
     <id>https://thejeffrey.me/2020/05/02/logistics-in-a-manufacturing-company/</id>
     <published>2020-05-02T15:00:00.000Z</published>
-    <updated>2020-05-02T15:49:59.681Z</updated>
+    <updated>2020-05-08T15:31:01.816Z</updated>
     
     <content type="html"><![CDATA[<p>When I working in Panasonic Senai, there is a department by the name of Logistics. The Logistics department is mainly working on shipping and delivery. Most of the time they are busy arranging shipment for finished products which ship to oversea. Overall orders are come from Panasonic Japan but shipped out to customers in the US and UK. The job scope of the Logistics department is organizing the deal date of orders with shipment date, they have to work closely with the Production department and the vendors for shipment. </p><p>The common problems that happen in the Logistics department are redundant processes, inaccurate inventory layout, and lack of efficiency. They need a system to help them to reduce high labor costs and prevent human error. In Panasonic Senai, all the Sales Order and Shipping Instruction are going through our ERP system. Logistics members can do the planning, forecast, and manage shipment with the system and work more efficiently. However, for the physical goods, they need a good facility layout and spaces to manage the packing process, therefore we implement a system to resolve this issue.</p><p>As a software engineer in the Information System Department, I have the opportunity to join in the project to study the whole process and design the solution called Pallet Checker System. This system is a helper that works with members when they do the packing process. Members have to scan all the products during warping, pallet by pallet. It can ensure the packed finished products are matched with Shipping Instruction so that we are not sending the wrong product to the wrong customer. This system also enhances the storage shortage issue with the scheduled shipment that needs to be ship out on time.</p><p>This is a fresh experience for me since I never study the process of Sales Order and Shipping Instruction, this project helps me a lot to gain new exposure in the manufacturing business process. </p>]]></content>
     
@@ -35,8 +61,6 @@
     </summary>
     
     
-      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
-    
       <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
     
       <category term="B2B" scheme="https://thejeffrey.me/tags/B2B/"/>
@@ -48,7 +72,7 @@
     <link href="https://thejeffrey.me/2020/04/25/corporate-purchase-in-a-manufacturing-company/"/>
     <id>https://thejeffrey.me/2020/04/25/corporate-purchase-in-a-manufacturing-company/</id>
     <published>2020-04-25T13:30:00.000Z</published>
-    <updated>2020-04-25T14:39:21.819Z</updated>
+    <updated>2020-05-08T15:31:04.092Z</updated>
     
     <content type="html"><![CDATA[<p>Back then, 2017, when I working in Panasonic Senai. Our factory has a department named Corporate Purchase, all the members in this department who will be handling raw materials and finished goods, so-called Inbound and Outbound. It is a very complex process with cumbersome workflow, every member had to cooperate with other departments. For the material purchasing team, they had to work with vendors to ensure all the material can arrive on time. For the finished goods team, they had to work with the Logistics department to make sure the goods can be ship out on schedule. In order to manage this huge workflow and improve their work efficiency, they need an Inventory System to enhance their workflows.</p><p>As a software engineer in the Information System Department, I have the opportunity to join in this project with my manager and senior manager to implement an Inventory System. The goal of this system is to reduce their workload and prevent human error in their process. To achieve this target, we have to study the whole process and understand the details in each workflow. </p><p>In the inbound delivery process, when the raw materials came in, store members have to verify the item and check the quantity is correct, update it in system and move into the warehouse. This is a heavy-duty workload and it can cause a lot of human error. Therefore, we implement a barcode system to help them to manage the stock and improve traceability in goods movement.</p><p>In the outbound delivery process, when the finished goods had been done packing, store members have to move the finished goods to the Logistics department to do the shipment, pallet by pallet. In order to operate smoothly with each department, we have to implement a system to manage this workflow and conduct the process.</p><p>This project brings me a chance to broaden my horizons, I learned a lot of different things from my field, and get the experiment to work in a multi-channel group. </p>]]></content>
     
@@ -61,8 +85,6 @@
     
     </summary>
     
-    
-      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
     
       <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
     
@@ -131,7 +153,7 @@
     <link href="https://thejeffrey.me/2020/04/04/purchase-request-in-a-manufacturing-company/"/>
     <id>https://thejeffrey.me/2020/04/04/purchase-request-in-a-manufacturing-company/</id>
     <published>2020-04-04T15:30:00.000Z</published>
-    <updated>2020-04-25T14:38:26.884Z</updated>
+    <updated>2020-05-08T15:31:09.452Z</updated>
     
     <content type="html"><![CDATA[<p>I have been working in a manufacturing company (Panasonic) as an in-house software developer. The scopes of in-house software are supporting internal business workflows, improve productivity and increase product quality. Since all software is used by our employees, so as a software developer, I have to understand our company’s business workflows and what are they doing in each department.</p><p>I still can remember when I had been assigned to support a Purchase Request system. I have to work with the Corporate Purchasing Department. I did the feasibility study of purchasing workflow. It is quite a complicated workflow involved clerk, purchaser, administrator, and vendor. A purchase request basically can split into two categories which are Regular Request and Ad-hoc Request. The Regular Request is repeatable every week or every month, so it has a fixed vendor. The Ad-hoc Request is a special request like ordering a machine or purchase a service. The ad-hoc request needs management to approve and get acknowledgment.</p><p>In order to get a clear idea of the process, I have to follow the purchaser run through the whole process, like a clerk submit a request form to request purchase, the administrator verifies the request and gets approval from management. Finance has to approve the request then the purchaser submits a purchase order to the vendor and gets the delivery timeline from the vendor. Each of the workflows needed a clear vision and well designed in the system.</p><p>I realized that every department is working as a chain that links with each other. It required a lot of communication and good cooperation between each employee. As a software developer, I have to communicate with people coming from different backgrounds, get experience from them and sometimes I have to learn how to convince them when needed.</p>]]></content>
     
@@ -144,8 +166,6 @@
     
     </summary>
     
-    
-      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
     
       <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
     
