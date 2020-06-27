@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-06-21T14:56:42.507Z</updated>
+  <updated>2020-06-27T16:16:23.694Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Goal setting</title>
+    <link href="https://thejeffrey.me/2020/06/28/goal-setting/"/>
+    <id>https://thejeffrey.me/2020/06/28/goal-setting/</id>
+    <published>2020-06-28T14:30:00.000Z</published>
+    <updated>2020-06-27T16:16:23.694Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>A dream is just a dream. A goal is a dream with a plan and a deadline. - Harvey Mackay</p></blockquote><p>Goal setting is such an important process to achieve your plan or target, it involves action plans and measurable targets, it can be used in your life or your career. A goal is like a compass, it is able to help you to stick to your plan and let you know where you are, it will bring you a clear image of your thought. </p><p>Sometimes we are seeking new things in our life, we wanted to do something that we thought is good for us, we want to change our life, leave the comfort zone though it is not easy. We can step out of the first step, think about what we want, and how to get it. We can set a goal and start to plan about it, take action, it will motivate us in the process. </p><p>Working and learning in the process of pursuing these goals, create an action plan for it. The action plan is what you need to do to achieve the goal you set, the requirement to get on your goal, and the difficult part to achieve it. Follow the plan and implement it step by step, bit by bit, this process can be very tough it depends on what you want. To keep in track of your plan and obtaining your goal,  you need to work on your plan consistently and get the result in the end. A lot of things that are not as a fast game, we are nothing working hard to get the things first but to keep the things lasting. Doing this over and over again is the personal evolutionary process.</p><p>Do the things simple, and repeat doing the simple things. Setting a goal is simple but important, we can have a clear image of what we want instead of doing everything that we think we should. Set a simple goal, get a hard result.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;A dream is just a dream. A goal is a dream with a plan and a deadline. - Harvey Mackay&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Goal setting is 
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Learn from failure</title>
     <link href="https://thejeffrey.me/2020/06/21/learn-from-failure/"/>
     <id>https://thejeffrey.me/2020/06/21/learn-from-failure/</id>
     <published>2020-06-21T13:30:00.000Z</published>
-    <updated>2020-06-21T14:56:42.507Z</updated>
+    <updated>2020-06-27T16:13:12.351Z</updated>
     
     <content type="html"><![CDATA[<p>I feel so glad that I’m an optimistic person and think positive, I always think the best thing will happen and I believe everything happens for a reason no matter it’s good or bad. </p><p>Human makes mistakes, some people don’t look at their mistake and blame to other things or person. But I think we need to learn from our mistakes and learn how to admit to it, this is not easy and we need to expose us to the feedback. Some people thought the mistake is bad, it discloses personal weaknesses and makes them look stupid. Though I think we need to prevent mistake but when it happens, we require to accept it and it will help us to recognize our weaknesses, this is essential for our learning.</p><p>Great people none of them were born great, they all made lots of mistakes and had lots of weaknesses. That great people become great by looking at their mistakes and weaknesses and figuring out how to get around them.</p><p>Mistake makes failure, our first impression when we face failure, we feel so bad and unsettling, we think why we are the only one who got it, why this happens to me, why I’m so unlucky. But we have got to think about why this bad thing happens, it may happen due to ourselves, not others. </p><p>If we learn from failure, we may successfully deal with the realities of life. Failure is like a stone, we can choose to throw away the stone, or use the stone to step-ups on it, then the bad thing will become a good thing. It is not easy to review our failure, recall all the mistakes we did, and make a reflection on it. In spite of it, if we can get this skill set, we can adapt to any environment, no matter how we are and where we are, we can become better and better.</p>]]></content>
     
@@ -36,6 +64,8 @@
     
     
       <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
     
   </entry>
   
@@ -323,7 +353,7 @@
     <link href="https://thejeffrey.me/2020/03/29/accept-new-things/"/>
     <id>https://thejeffrey.me/2020/03/29/accept-new-things/</id>
     <published>2020-03-29T15:00:00.000Z</published>
-    <updated>2020-03-29T17:02:59.032Z</updated>
+    <updated>2020-06-27T16:13:40.554Z</updated>
     
     <content type="html"><![CDATA[<p>Back then, I was working in Panasonic Senai, our top management is looking for an inventory system since our members are doing in a manual way of inventory management that lasted 30 years. They manual verify incoming material and manually enter all data into our ERP system which is SAP system. They manual do the stock check with human counting twice a month. These manual ways of working brought about human errors, inefficiency business processes, and cheating in goods lost. These are big problem for our company, it’s very hard to manage and affect our company’s profit.</p><p>As a software engineer in Panasonic Senai, I was involved in this project to study the current issues and come out with a solution. We make a comparison between in-house development and outsource development. In-house development can save costs but outsource development can save time. After a few discussions with our department manager and top management. Finally, they decided to assign the development to the outsourcing company but we have to maintain and enhance the system in the future. This project was assigned to an outsourcing company which is Deloitte. Deloitte is a UK company and they have a lot of professional SAP consultants, that’s why this project took around one million Ringgit Malaysia and implemented within 6 months.</p><p>Unfortunately, it happens a lot of issues after implement this system. Our members were frustrated with this new system since they think this new system does not help them to reduce their works but brings more works to them. However, this new system is a good practice and it can help them to prevent human error. I found out that they were frustrated because they didn’t want to accept new things and new workflows. It is a big impact on them as they felt very comfortable in their current workflows and they felt very hard to adapt to new technologies. It is a mindset issue that has to solve on mindset, not the system.</p>]]></content>
     
@@ -339,6 +369,8 @@
     
       <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
     
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
   </entry>
   
   <entry>
@@ -346,7 +378,7 @@
     <link href="https://thejeffrey.me/2020/03/21/luck-surface-area/"/>
     <id>https://thejeffrey.me/2020/03/21/luck-surface-area/</id>
     <published>2020-03-21T15:35:00.000Z</published>
-    <updated>2020-03-21T17:41:11.022Z</updated>
+    <updated>2020-06-27T16:13:24.099Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>You make your own luck - Jason Roberts</p></blockquote><p>How do you increase your chance of success? Your “Luck Surface Area” can help you. This is a term coined by Jason Roberts in a 2010 blog post. When the first time I saw this term I felt shocked, I did not know luck can have a surface area and you can control the amount of luck that you receive. </p><p>As I understand it, when you contribute something and people aware of it, you will get more opportunities. When you pour energy into a passion, you become an expert in one field, somebody will look for you. This idea does match my belief. I’ve always thought about learn more things and do more work will lead me to wider possibilities. When you do something you are passionate about and do something is valuable, people will feel interested and try to capture that value. When people need you more than you need people, you started to be valuable. </p><p><img src="/images/luck-surface-area.png" alt="Luck Surface Area" title="Luck Surface Area"></p><p>This is the graphical representation that really brings the concept home. However, I does not like the word “tell” in here instead of “aware”. Cause I think let people aware of your value is better than tell people what you have, it is harder to achieve though.</p><p>Although, how to make people aware of your value is a big question, it can be a long journey. Even though you are an expert in doing something but people do not aware of it, it will become nothing. Let others know of your worth are equally important and commonly be overlooked.</p>]]></content>
     
@@ -364,6 +396,8 @@
     
     
       <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
     
   </entry>
   
