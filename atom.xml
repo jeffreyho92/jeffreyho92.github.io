@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-07-05T15:13:30.138Z</updated>
+  <updated>2020-07-11T14:43:17.661Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Don&#39;t waste a good mistake</title>
+    <link href="https://thejeffrey.me/2020/07/11/don-t-waste-a-good-mistake/"/>
+    <id>https://thejeffrey.me/2020/07/11/don-t-waste-a-good-mistake/</id>
+    <published>2020-07-11T14:00:00.000Z</published>
+    <updated>2020-07-11T14:43:17.661Z</updated>
+    
+    <content type="html"><![CDATA[<p>A lot of people are scared about making mistakes, we thought a mistake is a bad thing that we need to avoid, but I think we should accept the mistake we made and learn from it, even though it’s not easy. Sometimes it’s very hard to admit the mistake we made in front of other people, it felt like we are telling people that we are not smart enough or we are stupid, but that’s not true. Some people admit the mistake and also learn from it, look into it, and avoid making it again. This time, a mistake became a good experience rather than a bad experience.</p><p>School learning overemphasizes the value of having the right answers and punishes the wrong answers, that’s why we terrified to do the odd thing and choose the safest way to avoid mistakes. The second option appears to be in flat contradiction of the first option, the safest way may not be the right way. Sometimes we need to do a mistake to get the right answer, a mistake can end up being the best decision you ever make, not making mistakes is the biggest mistake.</p><blockquote><p>The worst mistake is not facing up to mistakes - Ray Dalio</p></blockquote><p>Michael Jordan, he became a champion and the greatest basketball player because he loved using his mistakes to improve himself instead of avoiding mistakes and do the normal things. Maybe we can’t become a legend like him, but we should learn from him, learn from our mistakes, and step up on it to go farther.</p><p>To think, how to sidestep mistakes and not doing anything, this will bring us nothing. Though, we should be careful and think deeply before we make a decision, although we can only know the outcome by doing it. Well, we may feel pain when making a mistake, but the regret of not doing it is more painful.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;A lot of people are scared about making mistakes, we thought a mistake is a bad thing that we need to avoid, but I think we should accept
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
   
   <entry>
     <title>Decision making in life</title>
@@ -494,29 +519,6 @@
     
     
       <category term="unix" scheme="https://thejeffrey.me/tags/unix/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo</title>
-    <link href="https://thejeffrey.me/2016/04/29/hexo/"/>
-    <id>https://thejeffrey.me/2016/04/29/hexo/</id>
-    <published>2016-04-29T01:21:34.000Z</published>
-    <updated>2016-05-05T14:17:26.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="hexo-3"><a href="#hexo-3" class="headerlink" title="hexo 3"></a>hexo 3</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate / hexo g</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy / hexo d</span><br></pre></td></tr></table></figure><p>Short cut:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g -d</span><br></pre></td></tr></table></figure></p><h2 id="Static-Sidebar"><a href="#Static-Sidebar" class="headerlink" title="Static Sidebar"></a>Static Sidebar</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">grep -rl <span class="string">'displaySidebar'</span> themes/next/</span><br></pre></td></tr></table></figure><h3 id="comment-the-code"><a href="#comment-the-code" class="headerlink" title="comment the code"></a>comment the code</h3><p>themes/next/source/js/src/motion.js<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">sidebar: <span class="function"><span class="keyword">function</span> (<span class="params">integrator</span>) </span>&#123;</span><br><span class="line">  <span class="comment">//if (CONFIG.sidebar.display === 'always') &#123;</span></span><br><span class="line">    NexT.utils.displaySidebar();</span><br><span class="line">  <span class="comment">//&#125;</span></span><br><span class="line">  integrator.next();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p>themes/next/source/js/src/post-details.js<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">NexT.motion.middleWares.sidebar = <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">var</span> $tocContent = $(<span class="string">'.post-toc-content'</span>);</span><br><span class="line"></span><br><span class="line">    <span class="comment">//if (CONFIG.sidebar.display === 'post' || CONFIG.sidebar.display === 'always') &#123;</span></span><br><span class="line">      <span class="keyword">if</span> ($tocContent.length &gt; <span class="number">0</span> &amp;&amp; $tocContent.html().trim().length &gt; <span class="number">0</span>) &#123;</span><br><span class="line">        NexT.utils.displaySidebar();</span><br><span class="line">      &#125;</span><br><span class="line">    <span class="comment">//&#125;</span></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g -d</span><br></pre></td></tr></table></figure><h2 id="add-on-for-hexo"><a href="#add-on-for-hexo" class="headerlink" title="add-on for hexo"></a>add-on for hexo</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-feed --save</span><br><span class="line">npm install hexo-generator-sitemap@1.0.0 --save</span><br></pre></td></tr></table></figure><p>__dir/_config.yml<br><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">next</span></span><br><span class="line"></span><br><span class="line"><span class="attr">sitemap:</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">sitemap.xml</span></span><br><span class="line"></span><br><span class="line"><span class="attr">feed:</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">atom.xml</span></span><br></pre></td></tr></table></figure></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm update</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure><h2 id="NexT-theme"><a href="#NexT-theme" class="headerlink" title="NexT theme"></a>NexT theme</h2><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"># Schemes</span><br><span class="line">scheme: Muse</span><br><span class="line"># Sidebar</span><br><span class="line">display: always</span><br><span class="line"></span><br><span class="line">avatar:</span><br><span class="line">  /images/avatar.png</span><br><span class="line"></span><br><span class="line">highlight_theme: night eighties</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g -d</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page <span class="string">"tags"</span></span><br></pre></td></tr></table></figure><p>tags\index.md<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">title: All tags</span><br><span class="line">date: 2014-12-22 12:39:04</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure></p><p>themes/_config.yml<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  home: &#x2F;</span><br><span class="line">  archives: &#x2F;archives</span><br><span class="line">  tags: &#x2F;tags</span><br></pre></td></tr></table></figure></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;hexo-3&quot;&gt;&lt;a href=&quot;#hexo-3&quot; class=&quot;headerlink&quot; title=&quot;hexo 3&quot;&gt;&lt;/a&gt;hexo 3&lt;/h1&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutt
-      
-    
-    </summary>
-    
-    
-      <category term="hexo" scheme="https://thejeffrey.me/tags/hexo/"/>
     
   </entry>
   
