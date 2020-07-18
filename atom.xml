@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-07-11T14:43:17.661Z</updated>
+  <updated>2020-07-18T15:34:00.590Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Good pain and Bad pain</title>
+    <link href="https://thejeffrey.me/2020/07/18/good-pain-and-bad-pain/"/>
+    <id>https://thejeffrey.me/2020/07/18/good-pain-and-bad-pain/</id>
+    <published>2020-07-18T14:00:00.000Z</published>
+    <updated>2020-07-18T15:34:00.590Z</updated>
+    
+    <content type="html"><![CDATA[<p>Looking at feeling from a different angle and a different perspective can feel differently. Every feeling can be good or bad, especially for Pain, it depends on how you treat it.</p><p>Bad pain; allow pain to stand in the way of your progress, it makes you fail.<br>Good pain; understand how to manage the pain to produce progress with it.</p><p>Sometime happened something bad to you, you feel pain and uncomfortable, but we can see it as an experience. Sometimes you get criticism from people around you, you feel pain and hurt, but we can see it as an enlightened. Sometimes you face a failure, you feel pain and disappointment, but we can see it as an adventure. Those bad things make you feel pain but if you don’t learn from it, it will be more painful.</p><p>Instead of avoiding the pain to happen, we should focus on the reflection when the pain happened, we can think about how and why the things happen, swift to a different perspective, and learn from the pain.</p><p>Ray Dalio once wrote in his book Principles:</p><blockquote><p>Pain + Reflection = Progress</p></blockquote><p>Most learning comes from making mistakes and experiencing the pain of them. Looks into the pain is not easy, sometimes it is violated with our self-esteem, struggling with acceptance, and admit it is our false. </p><p>When you meet resistance, push through the pain of facing your problem, knowing you will end up in a much better place, it will bring you to overcome the resistance. Pain is like a wall that blocks us from moving forward and lets us feel safe behind it and stay in the comfort zone. Sometimes we need to be brave to pick it up and throw it behind.</p><p>Don’t waste the pain and make it worth to happen.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Looking at feeling from a different angle and a different perspective can feel differently. Every feeling can be good or bad, especially 
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
   
   <entry>
     <title>Don&#39;t waste a good mistake</title>
@@ -494,31 +519,6 @@
     
     
       <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>unix</title>
-    <link href="https://thejeffrey.me/2016/04/29/unix/"/>
-    <id>https://thejeffrey.me/2016/04/29/unix/</id>
-    <published>2016-04-29T01:26:13.000Z</published>
-    <updated>2016-05-02T06:31:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>ufw</p><p>sudo apt-get install ufw</p><p>sudo ufw enable<br>sudo ufw allow ssh<br>sudo ufw allow 22<br>sudo ufw allow http<br>sudo ufw allow https<br>sudo ufw allow 3000</p><p>sudo ufw deny http</p><p>sudo ufw status</p><p>$ vi /etc/ssh/sshd_config</p><p>PermitRootLogin no<br>PubkeyAuthentication no<br>AllowUsers ramesh john jason<br>Port 222</p><p>server timezone</p><p>sudo dpkg-reconfigure tzdata</p><p>Filter for brute-force interactive SSH logins<br>grep sshd.*Failed /var/log/auth.log | less</p><p>Look for failed connections (i.e. no login attempted, could be a port scanner, etc.):<br>grep sshd.*Did /var/log/auth.log | less</p><p>sudo apt-get install fail2ban</p><p>/etc/apache2/pache2.conf</p>&lt;Directory /var/www/&gt;<br>    Options Indexes FollowSymLinks<br>    AllowOverride All<br>    Require all granted<br></Directory><p>sudo a2enmod rewrite<br>sudo service apache2 restart</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;ufw&lt;/p&gt;
-&lt;p&gt;sudo apt-get install ufw&lt;/p&gt;
-&lt;p&gt;sudo ufw enable&lt;br&gt;sudo ufw allow ssh&lt;br&gt;sudo ufw allow 22&lt;br&gt;sudo ufw allow http&lt;br&gt;sudo ufw 
-      
-    
-    </summary>
-    
-    
-      <category term="unix" scheme="https://thejeffrey.me/tags/unix/"/>
     
   </entry>
   
