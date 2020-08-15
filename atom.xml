@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-08-09T15:22:37.834Z</updated>
+  <updated>2020-08-15T16:56:45.873Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Get big things done or make small things perfect</title>
+    <link href="https://thejeffrey.me/2020/08/16/get-big-things-done-or-make-small-things-perfect/"/>
+    <id>https://thejeffrey.me/2020/08/16/get-big-things-done-or-make-small-things-perfect/</id>
+    <published>2020-08-15T16:50:00.000Z</published>
+    <updated>2020-08-15T16:56:45.873Z</updated>
+    
+    <content type="html"><![CDATA[<p>Sometimes, we are used to enjoying doing small things and make it looks perfect since it is easy to get done and we can get the result response immediately, though, it is not interesting. People like to do things that are able to get immediate responses and feel easy to do it, like reply email or doing a small task, it lets us feel that we are doing something. However, it didn’t bring much value to our time.</p><p>Big things are something that not easy to achieve, it requires us to give hard work on it, and takes time to work on it to get some outcomes. Most of the time, we are procrastinating to work on the big things since it needs more effort, more focus, and consume more time on it. However, it will bring a huge effect on our life when we achieve it, it worth our time to spend on it. </p><blockquote><p>It’s more important to do big things well than to do small things perfectly. - Ray Dalio</p></blockquote><p>Get things done and make life easy. I’m still learning to make the small things done but not make it perfect. Sometimes, when I doing the small things, I like to make it perfect and waste a lot of time in the details. Nevertheless, stop being a perfectionist is a good achievement.</p><p>Begin with the end in mind, Stephen Covey wrote in his book, The 7 Habits of Highly Effective People. When we get started to do something, we can make a clear vision of the desired direction and destination, imaging the thing that had been completed, and how will it looks like. This action can give us some motivation to work on it and make things happen, done lately is better than no progress.</p><p>Value your time and waste your time in something that makes values in your life.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Sometimes, we are used to enjoying doing small things and make it looks perfect since it is easy to get done and we can get the result re
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
   
   <entry>
     <title>Personal weaknesses, fix it or ignore it</title>
@@ -495,31 +520,6 @@
       <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
     
       <category term="B2B" scheme="https://thejeffrey.me/tags/B2B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Accept new things</title>
-    <link href="https://thejeffrey.me/2020/03/29/accept-new-things/"/>
-    <id>https://thejeffrey.me/2020/03/29/accept-new-things/</id>
-    <published>2020-03-29T15:00:00.000Z</published>
-    <updated>2020-06-27T16:13:40.554Z</updated>
-    
-    <content type="html"><![CDATA[<p>Back then, I was working in Panasonic Senai, our top management is looking for an inventory system since our members are doing in a manual way of inventory management that lasted 30 years. They manual verify incoming material and manually enter all data into our ERP system which is SAP system. They manual do the stock check with human counting twice a month. These manual ways of working brought about human errors, inefficiency business processes, and cheating in goods lost. These are big problem for our company, it’s very hard to manage and affect our company’s profit.</p><p>As a software engineer in Panasonic Senai, I was involved in this project to study the current issues and come out with a solution. We make a comparison between in-house development and outsource development. In-house development can save costs but outsource development can save time. After a few discussions with our department manager and top management. Finally, they decided to assign the development to the outsourcing company but we have to maintain and enhance the system in the future. This project was assigned to an outsourcing company which is Deloitte. Deloitte is a UK company and they have a lot of professional SAP consultants, that’s why this project took around one million Ringgit Malaysia and implemented within 6 months.</p><p>Unfortunately, it happens a lot of issues after implement this system. Our members were frustrated with this new system since they think this new system does not help them to reduce their works but brings more works to them. However, this new system is a good practice and it can help them to prevent human error. I found out that they were frustrated because they didn’t want to accept new things and new workflows. It is a big impact on them as they felt very comfortable in their current workflows and they felt very hard to adapt to new technologies. It is a mindset issue that has to solve on mindset, not the system.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Back then, I was working in Panasonic Senai, our top management is looking for an inventory system since our members are doing in a manua
-      
-    
-    </summary>
-    
-    
-      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
-    
-      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
     
   </entry>
   
