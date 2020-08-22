@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-08-15T16:56:45.873Z</updated>
+  <updated>2020-08-22T16:28:32.987Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Learning how to Learn</title>
+    <link href="https://thejeffrey.me/2020/08/22/learning-how-to-learn/"/>
+    <id>https://thejeffrey.me/2020/08/22/learning-how-to-learn/</id>
+    <published>2020-08-22T14:30:00.000Z</published>
+    <updated>2020-08-22T16:28:32.987Z</updated>
+    
+    <content type="html"><![CDATA[<p>People keep moving forward with gaining new knowledge. Learning is the very first step of change, learning is just a small part of the puzzle, but it’s the most important part. Sometimes we feel hard to take the step out due to procrastination or lack of intention, or maybe we read it once then we thought we had learned about it, but this is not true.</p><p>As Alvin Toffler mentioned in his book, the 21st-century learning process:</p><blockquote><p>Learn -&gt; Unlearn -&gt; Re-learn</p></blockquote><p>Learn: Getting the new things that we had never seen or known before, and take it as our knowledge.<br>Unlearn: After we learn the knowledge, it is open to objection. We should do some reflection on it, is it matching with our faith, should we agree with that point of view, we can be opposed to it.<br>Re-learn: After the reflection process, we re-learn the knowledge and come out with our own beliefs. This is such an important process that we can learn the knowledge that suite our past and future.</p><p>As Chris Do mention in his video, this is the new generation of the education process:</p><blockquote><p>Self-learning -&gt; Critical thinking -&gt; Articulation</p></blockquote><p>Self-learning: We can learn what we wanted to learn through searching Google, read a book, join an online course, subscript MOOC, or even learn from a stranger.<br>Critical thinking: After we learn the new thing, we start a debate on it, think about how it is work, and is it a reliable knowledge, and how we can use it in our own.<br>Articulation: After we process the new learning to become our knowledge, we share it with people around us, it can be written in a post or article, repeat thinking about the knowledge. We should speak out loud for sharing and it can strengthen our memory.</p><p>Learning is from an input, and processing becomes an output, we consume the knowledge we learn, reflect on it, and implement it in our life.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;People keep moving forward with gaining new knowledge. Learning is the very first step of change, learning is just a small part of the pu
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
   
   <entry>
     <title>Get big things done or make small things perfect</title>
@@ -495,31 +520,6 @@
       <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
     
       <category term="leanstack" scheme="https://thejeffrey.me/tags/leanstack/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Purchase Request in a manufacturing company</title>
-    <link href="https://thejeffrey.me/2020/04/04/purchase-request-in-a-manufacturing-company/"/>
-    <id>https://thejeffrey.me/2020/04/04/purchase-request-in-a-manufacturing-company/</id>
-    <published>2020-04-04T15:30:00.000Z</published>
-    <updated>2020-05-08T15:31:09.452Z</updated>
-    
-    <content type="html"><![CDATA[<p>I have been working in a manufacturing company (Panasonic) as an in-house software developer. The scopes of in-house software are supporting internal business workflows, improve productivity and increase product quality. Since all software is used by our employees, so as a software developer, I have to understand our company’s business workflows and what are they doing in each department.</p><p>I still can remember when I had been assigned to support a Purchase Request system. I have to work with the Corporate Purchasing Department. I did the feasibility study of purchasing workflow. It is quite a complicated workflow involved clerk, purchaser, administrator, and vendor. A purchase request basically can split into two categories which are Regular Request and Ad-hoc Request. The Regular Request is repeatable every week or every month, so it has a fixed vendor. The Ad-hoc Request is a special request like ordering a machine or purchase a service. The ad-hoc request needs management to approve and get acknowledgment.</p><p>In order to get a clear idea of the process, I have to follow the purchaser run through the whole process, like a clerk submit a request form to request purchase, the administrator verifies the request and gets approval from management. Finance has to approve the request then the purchaser submits a purchase order to the vendor and gets the delivery timeline from the vendor. Each of the workflows needed a clear vision and well designed in the system.</p><p>I realized that every department is working as a chain that links with each other. It required a lot of communication and good cooperation between each employee. As a software developer, I have to communicate with people coming from different backgrounds, get experience from them and sometimes I have to learn how to convince them when needed.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;I have been working in a manufacturing company (Panasonic) as an in-house software developer. The scopes of in-house software are support
-      
-    
-    </summary>
-    
-    
-      <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
-    
-      <category term="B2B" scheme="https://thejeffrey.me/tags/B2B/"/>
     
   </entry>
   
