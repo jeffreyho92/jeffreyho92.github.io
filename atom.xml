@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-08-22T16:28:32.987Z</updated>
+  <updated>2020-08-29T16:55:28.089Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dealing with opinions</title>
+    <link href="https://thejeffrey.me/2020/08/29/dealing-with-opinions/"/>
+    <id>https://thejeffrey.me/2020/08/29/dealing-with-opinions/</id>
+    <published>2020-08-29T14:45:00.000Z</published>
+    <updated>2020-08-29T16:55:28.089Z</updated>
+    
+    <content type="html"><![CDATA[<p>Everyone has opinions, either opinion from you to other people’s things, or opinions from other people that give you, it can be good or bad, neither all. Dealing with other people’s opinions can be tough since you don’t know that is good or bad for you, people may think it is good maybe it works for them, but actually, it can be bad for you.</p><p>When you dealing with the opinion that you don’t agree with and the person insists on giving you his opinion and want you to make a decision on it. At this point, opinion becomes troublesome, how to decline people’s opinion is like a martial art. We can’t straightaway reject the opinion, we need to handle it without affecting our relationship, we need to articulate our thoughts more clearly, and don’t be emotional.</p><blockquote><p>Don’t treat all opinions as equally valuable - Ray Dalio</p></blockquote><p>Sometimes the opinion that works on other people but may not works on our own. Learning how to recognize a good opinion it takes time to gain from experiences but it is an essential skill in our life. When we took the opinion and realized it is bad for us, the first time what we need to do is make a reflection on it, instead of blaming other people.</p><p>Don’t argue for other people’s opinions. Don’t argue for your own. When you make a mistake, admit it, correct it, and learn from it. We should get improve from other people’s opinions, rather than become worst from it. We can don’t follow the opinion if we thought it is not useful for us, it depends on different situations and the way you see it through.</p><p>Our behavior is a function of our decisions, not our conditions. The opinion is thought from other people but implements on our own. We should take responsibility for it, think about the opinion with our personal situation, instead of following blindly. Don’t be in blind faith and avoid the herding effect.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Everyone has opinions, either opinion from you to other people’s things, or opinions from other people that give you, it can be good or b
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
   
   <entry>
     <title>Learning how to Learn</title>
@@ -484,34 +509,6 @@
 &lt;li&gt;Prioritize Your Riskiest Assumptions&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Since startups are inherently risky, it follows that the best strategy
-      
-    
-    </summary>
-    
-    
-      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
-    
-      <category term="leanstack" scheme="https://thejeffrey.me/tags/leanstack/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Leanstack - Ash Maurya (Part 1)</title>
-    <link href="https://thejeffrey.me/2020/04/11/leanstack-ash-maurya-part-1/"/>
-    <id>https://thejeffrey.me/2020/04/11/leanstack-ash-maurya-part-1/</id>
-    <published>2020-04-11T15:20:00.000Z</published>
-    <updated>2020-04-11T16:34:16.551Z</updated>
-    
-    <content type="html"><![CDATA[<ol><li>Love the Problem, Not Your Solution</li></ol><p>People spending effort to build something nobody wants. A lot of people they are thinking about their idea is very good and start to build it immediately without finding the customer, they never do research about the market and find out their potential customers. Customers don’t care about your solutions, they care about their problems, no matter how great your product is. Traditionally, people building a key without a door, then try to figure out what door to open. But a better alternative is switch perspective, start with understanding a problem before building a solution, this becomes a lot easier after that.</p><blockquote><p>A problem well-defined is a problem half-solved. - Charles Kettring</p></blockquote><ol start="2"><li>The Business Model is the Product</li></ol><p>Market * Product = Profit</p><p>We need to ensure we have a problem that worth to solve and it’s monetizable from the customer’s pain point. Entrepreneur not just building a solution to a problem, but building a working business model is more important. Scientists use models to simplify a problem, make predictions and validated through experiments. Entrepreneur can do the same with business models. A good business model can create value for customers by solving a problem they wanted to solve.</p><ol start="3"><li>Traction is the Goal</li></ol><p>Traction is tempting to measure a working business model in terms of revenue or profit. It can be the rate of a business that captures monetizable value from its customers. We can show the growth in traction to get attention from investors. We can find an example from Facebook, it is a social media platform but captures value from advertisers who buy attention and data. Daily active users (DAU) can predict future revenue from advertisers, this is what called Traction.</p><ol start="4"><li>Right Action, Right Time</li></ol><p>Most of the entrepreneurs are trying to go fast on everything. But going fast on everything doesn’t necessarily make us go faster. Sometimes we wanted to get everything done but we didn’t think about which one is the priority or which one is most valuable. We try to optimize our product when we have no customers. We try to raise funding without any traction. The goal of entrepreneur is to find a business model that works before running out of resources. Time is the scarcest resource compare with others, we waste a lot of time to build a perfect product that no customer wants.</p><ol start="5"><li>Give Yourself Permission to Scale</li></ol><p>Three specific stages in a hockey-stick curve in the product lifecycle also known as Traction.</p><blockquote><p>Problem / Solution Fit  -&gt;  Product / Market Fit  -&gt;  Scale</p></blockquote><p>Problem / Solution Fit: Finding a problem worth solving, get paying customers without having to first build out a fully functioning solution.</p><p>Problem / Market Fit: Demonstrating a working business model with just a few good customers. A minimum viable product can test your business model fast and without wasting resources.</p><p>Scale: Once we have repeatability in a working business model, we can shifting focus to growth. We can test the full potential of a business model by scaling a product to support multi types of customers.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;ol&gt;
-&lt;li&gt;Love the Problem, Not Your Solution&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;People spending effort to build something nobody wants. A lot of people they are 
       
     
     </summary>
