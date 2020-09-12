@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-09-05T16:11:53.191Z</updated>
+  <updated>2020-09-12T15:46:00.101Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Opportunities in times of crisis</title>
+    <link href="https://thejeffrey.me/2020/09/12/opportunities-in-times-of-crisis/"/>
+    <id>https://thejeffrey.me/2020/09/12/opportunities-in-times-of-crisis/</id>
+    <published>2020-09-12T14:00:00.000Z</published>
+    <updated>2020-09-12T15:46:00.101Z</updated>
+    
+    <content type="html"><![CDATA[<p>Whenever something bad happened, it may make someone worst or there could be an opportunity for someone to get better. Everything has two sides, everything has its advantages and disadvantages. Crisis entails opportunities, we should try to look at the other side to avoid bias, though it is not easy but doable.</p><p>During this pandemic, a lot of people start doing digital marketing, they saw other people are doing something, so they also want to follow the trend, but this fall into the herd mentality, people can be influenced by their peers to adopt certain behaviors.</p><blockquote><p>It’s not the strongest of the species that survives, nor the most intelligent, but the one most adaptable to change. - Charles Darwin</p></blockquote><p>Should we follow other people doing the same things to avoid falling behind, or should we accommodate ourselves to adopt the new changes in the environment, I prefer the second one. When we follow the trend, doing the same things as other people doing, we are stuck in the 80% crowd, we can’t stand out in this situation. </p><p>The other option is don’t follow other people but improve ourselves to stay in the game, learning new skills that essential to survive in the environment. I think this is better than following other people back since we are growing with new experiences and it doesn’t hurt to trying new things. Even though step out of our comfort zone and overcome the challenges in a new environment is not easy, we are taking a risk and opening ourselves up to the possibility of stress, it will be tough but it is worth spending effort on it.</p><p>Even if I fail now, the skills I have acquiring will be valuable in the future, it will become my weapon to fight the next challenges.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Whenever something bad happened, it may make someone worst or there could be an opportunity for someone to get better. Everything has two
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
   
   <entry>
     <title>Good person won&#39;t necessarily to become successful</title>
@@ -481,31 +506,6 @@
       
       
         &lt;p&gt;When I working in Panasonic Senai, there is a department by the name of Logistics. The Logistics department is mainly working on shipping
-      
-    
-    </summary>
-    
-    
-      <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
-    
-      <category term="B2B" scheme="https://thejeffrey.me/tags/B2B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Corporate Purchase in a manufacturing company</title>
-    <link href="https://thejeffrey.me/2020/04/25/corporate-purchase-in-a-manufacturing-company/"/>
-    <id>https://thejeffrey.me/2020/04/25/corporate-purchase-in-a-manufacturing-company/</id>
-    <published>2020-04-25T13:30:00.000Z</published>
-    <updated>2020-05-08T15:31:04.092Z</updated>
-    
-    <content type="html"><![CDATA[<p>Back then, 2017, when I working in Panasonic Senai. Our factory has a department named Corporate Purchase, all the members in this department who will be handling raw materials and finished goods, so-called Inbound and Outbound. It is a very complex process with cumbersome workflow, every member had to cooperate with other departments. For the material purchasing team, they had to work with vendors to ensure all the material can arrive on time. For the finished goods team, they had to work with the Logistics department to make sure the goods can be ship out on schedule. In order to manage this huge workflow and improve their work efficiency, they need an Inventory System to enhance their workflows.</p><p>As a software engineer in the Information System Department, I have the opportunity to join in this project with my manager and senior manager to implement an Inventory System. The goal of this system is to reduce their workload and prevent human error in their process. To achieve this target, we have to study the whole process and understand the details in each workflow. </p><p>In the inbound delivery process, when the raw materials came in, store members have to verify the item and check the quantity is correct, update it in system and move into the warehouse. This is a heavy-duty workload and it can cause a lot of human error. Therefore, we implement a barcode system to help them to manage the stock and improve traceability in goods movement.</p><p>In the outbound delivery process, when the finished goods had been done packing, store members have to move the finished goods to the Logistics department to do the shipment, pallet by pallet. In order to operate smoothly with each department, we have to implement a system to manage this workflow and conduct the process.</p><p>This project brings me a chance to broaden my horizons, I learned a lot of different things from my field, and get the experiment to work in a multi-channel group. </p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Back then, 2017, when I working in Panasonic Senai. Our factory has a department named Corporate Purchase, all the members in this depart
       
     
     </summary>
