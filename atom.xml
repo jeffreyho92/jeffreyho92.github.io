@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-09-12T15:46:00.101Z</updated>
+  <updated>2020-09-18T11:58:44.026Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Be responsible for your future self</title>
+    <link href="https://thejeffrey.me/2020/09/18/be-responsible-for-your-future-self/"/>
+    <id>https://thejeffrey.me/2020/09/18/be-responsible-for-your-future-self/</id>
+    <published>2020-09-18T06:30:00.000Z</published>
+    <updated>2020-09-18T11:58:44.026Z</updated>
+    
+    <content type="html"><![CDATA[<p>When you think about how you will become in the future, who you will be in the future, and you look at your present and future selves as two different people. What you need to do to become the person you desire to be, the things that you doing now will benefit your future self. This is an important question that we need to ask ourselves, it is essential for our self-growth and become a better person.</p><p>Visualize about the future negative consequences that your future self will experience, what skill is required to overcome these negative moments, it can be a positive mindset or mentally strong heart, experiencing more things will make us stronger. Keep trying new things and learn from it is the key, the more you know the more you realize you don’t know. Go through all the things that happened in our life, good things or bad things all are valuable. Taking responsibility when you screw up, admit our mistake is the first step to conquer it.</p><blockquote><p>Remember that everything is a case study. Think about what it is a case of and what principles apply. - Ray Dalio</p></blockquote><p>Change only comes from taking action not just knowing about it. Every time we realize we need to do something for our future self, we need to take immediate action on it, I know sometimes it can be tough though.</p><p>The way you do anything is the way you do everything, we should start from a very tiny step on small things that can keep improving ourselves, it could be just a 5 mins exercise every day, but it will make a big impact in our life. Start building a new habit for future self, give them a healthy life, they will be grateful for us in taking these minor actions.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;When you think about how you will become in the future, who you will be in the future, and you look at your present and future selves as 
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
   
   <entry>
     <title>Opportunities in times of crisis</title>
@@ -481,31 +506,6 @@
       
       
         &lt;p&gt;Back then in 2016, I was working in Panasonic Senai for about one year. My company just started a new department with a new business moda
-      
-    
-    </summary>
-    
-    
-      <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
-    
-      <category term="B2B" scheme="https://thejeffrey.me/tags/B2B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Logistics in a manufacturing company</title>
-    <link href="https://thejeffrey.me/2020/05/02/logistics-in-a-manufacturing-company/"/>
-    <id>https://thejeffrey.me/2020/05/02/logistics-in-a-manufacturing-company/</id>
-    <published>2020-05-02T15:00:00.000Z</published>
-    <updated>2020-05-08T15:31:01.816Z</updated>
-    
-    <content type="html"><![CDATA[<p>When I working in Panasonic Senai, there is a department by the name of Logistics. The Logistics department is mainly working on shipping and delivery. Most of the time they are busy arranging shipment for finished products which ship to oversea. Overall orders are come from Panasonic Japan but shipped out to customers in the US and UK. The job scope of the Logistics department is organizing the deal date of orders with shipment date, they have to work closely with the Production department and the vendors for shipment. </p><p>The common problems that happen in the Logistics department are redundant processes, inaccurate inventory layout, and lack of efficiency. They need a system to help them to reduce high labor costs and prevent human error. In Panasonic Senai, all the Sales Order and Shipping Instruction are going through our ERP system. Logistics members can do the planning, forecast, and manage shipment with the system and work more efficiently. However, for the physical goods, they need a good facility layout and spaces to manage the packing process, therefore we implement a system to resolve this issue.</p><p>As a software engineer in the Information System Department, I have the opportunity to join in the project to study the whole process and design the solution called Pallet Checker System. This system is a helper that works with members when they do the packing process. Members have to scan all the products during warping, pallet by pallet. It can ensure the packed finished products are matched with Shipping Instruction so that we are not sending the wrong product to the wrong customer. This system also enhances the storage shortage issue with the scheduled shipment that needs to be ship out on time.</p><p>This is a fresh experience for me since I never study the process of Sales Order and Shipping Instruction, this project helps me a lot to gain new exposure in the manufacturing business process. </p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;When I working in Panasonic Senai, there is a department by the name of Logistics. The Logistics department is mainly working on shipping
       
     
     </summary>
