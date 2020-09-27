@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-09-18T11:58:44.026Z</updated>
+  <updated>2020-09-27T06:54:03.275Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Taking a risk or not taking</title>
+    <link href="https://thejeffrey.me/2020/09/27/taking-a-risk-or-not-taking/"/>
+    <id>https://thejeffrey.me/2020/09/27/taking-a-risk-or-not-taking/</id>
+    <published>2020-09-27T05:00:00.000Z</published>
+    <updated>2020-09-27T06:54:03.275Z</updated>
+    
+    <content type="html"><![CDATA[<p>It is common to hear the advice that people should take some risk and uncertainty if they want to be successful. Risk can separate into two different types, calculated risk, and non-calculated risk. I think knowing what you do and taking a risk with knowledge is calculated risk. When you have the knowledge of the things you are doing, you can handle the uncertainty, you can calculate the risk.</p><p>However, does risk-taking can lead to success or it is essential to be successful? For me, the answer depends on several factors, different people doing the same thing can lead to a different result. Successful people tend to take risks in ways that limit their potential losses.</p><blockquote><p>Entrepreneurs are not risk takers. They are calculated risk takers. - Leonard C. Green</p></blockquote><p>“The difference between risk-takers and calculated risk-takers is the difference between failure and success,” Green said. To be honest, this ideal looks like a survivorship bias, when the risk-taker becomes successful, we will think this is a good risk to take, but when the risk-taker becomes a failure, we will think this is a bad risk. In order to avoid survivorship bias, we need to look at the same thing in different ways and different perspectives. Take some time to study to get knowledge, we should look at the failure case, it is way more important than look at the success case. When we have the knowledge, we know how to play the game and applying some strategies.</p><p>Risk-taking does have some relative with success, but there are too many complicated factors to say that taking the risk will increase your chances to become successful. Even though those successful people also need to find ways to mitigate damage and lower the risks they take.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;It is common to hear the advice that people should take some risk and uncertainty if they want to be successful. Risk can separate into t
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
   
   <entry>
     <title>Be responsible for your future self</title>
@@ -481,31 +506,6 @@
       
       
         &lt;p&gt;When I working in Panasonic Senai, we have a department by the name of C&amp;amp;R, C&amp;amp;R stands for Configuration and Repair. They are doi
-      
-    
-    </summary>
-    
-    
-      <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
-    
-      <category term="B2B" scheme="https://thejeffrey.me/tags/B2B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Configuration Business in a manufacturing company</title>
-    <link href="https://thejeffrey.me/2020/05/08/configuration-business-in-a-manufacturing-company/"/>
-    <id>https://thejeffrey.me/2020/05/08/configuration-business-in-a-manufacturing-company/</id>
-    <published>2020-05-08T14:30:00.000Z</published>
-    <updated>2020-05-08T15:41:54.081Z</updated>
-    
-    <content type="html"><![CDATA[<p>Back then in 2016, I was working in Panasonic Senai for about one year. My company just started a new department with a new business modal which is C&amp;R, C&amp;R stands for Configuration and Repair. This business is focused on support Panasonic’s laptop and tablet which are TOUGHBOOK and TOUGHPAD. They do the customize configuration for the new devices such as install GPS sensors or upgrade software and OS. And the repair team will focus on repair customer’s TOUGHBOOK such as hardware that broken or spoilt. </p><p>There is a huge demand from oversea counties like the UK and the US. Panasonic in the UK has a company which doing the same thing as C&amp;R but the labor costs are very high, so we have the cost advantage in Malaysia. Most of the new devices are produced in Taiwan, then they will ship to us and do configuration before send out to customers.</p><p>The complicated part of this business is in the inventory. Since we can’t stock all the configuration parts and devices, so we have to keep track of the Sales Order to do the forecast for goods requests and orders. C&amp;R members have to make sure all the parts are getting ready on time when the devices have arrived and start doing configuration immediately and ship out in short timing. </p><p>This business was authorized by Panasonic Japan, they sent some people from Japan to here to set up the production environment and give training for C&amp;R members. C&amp;R members have to follow the SOP that given by Japan and follow the documentation for each operation.</p><p>We also have a new system developed by Japan members and implemented in C&amp;R, this system will help us to manage all the production process and workflow. I had been assigned to maintain this system and do the enhancement on our own, so I have to fully understand the whole business process in each workflow. </p><p>This allowed me to learn something new from Japan members and the business model that is not often seen in the market.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Back then in 2016, I was working in Panasonic Senai for about one year. My company just started a new department with a new business moda
       
     
     </summary>
