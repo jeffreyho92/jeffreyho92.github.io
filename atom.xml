@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-09-27T06:54:03.275Z</updated>
+  <updated>2020-10-03T16:30:34.576Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Improve productivity inspired by Elon Musk</title>
+    <link href="https://thejeffrey.me/2020/10/03/improve-productivity-inspired-by-elon-musk/"/>
+    <id>https://thejeffrey.me/2020/10/03/improve-productivity-inspired-by-elon-musk/</id>
+    <published>2020-10-03T15:00:00.000Z</published>
+    <updated>2020-10-03T16:30:34.576Z</updated>
+    
+    <content type="html"><![CDATA[<p>If let me think about the busiest person in the world, I immediately think of Elon Musk. How he can get so many things done every single day 24/7. He could be the Busyman in the business world, or whatever you name it. He managing Teala, SpaceX, The Boring Company, Neuralink, and the list keep going. Those companies he is working on that all changing the course of humanity. Even managing just one of those would be one hell of a project, every day dealing with uncertainty. I mean, with SpaceX alone he is trying to get us to Mars, this is insane.</p><p>Therefore, what does Elon Musk do differently from most other people, that makes him so extremely productive, get so many things done in all different area. Well, I think one thing is very clear, he is big on prioritization. He once said, “Focus on signal over noise. Don’t waste time on stuff that doesn’t actually make things better.” This sounds like a simple idea that everyone was known, but it is not easy to apply in our daily tasks. We always get disturbed by urgent things, even though that is not really urgent. </p><p>By considering reducing the things that don’t matter (much), he frees up his limited time and energy for the things that do matter, and that is something we should all learn from him and apply in our daily jobs. First thing first and get things done.</p><p>When we prioritize the most valuable tasks over all the ‘busywork’ tasks, that is when we effectively improve our productivity. That is how we will be able to achieve much more in much less time. Everyone has the same amount of time, 24 hours per day, get more done in less time is the key.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;If let me think about the busiest person in the world, I immediately think of Elon Musk. How he can get so many things done every single 
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
   
   <entry>
     <title>Taking a risk or not taking</title>
@@ -481,31 +506,6 @@
       
       
         &lt;p&gt;When I was working in Panasonic Senai, back than 2016, the production planning department is such a huge and complicated department aroun
-      
-    
-    </summary>
-    
-    
-      <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
-    
-      <category term="B2B" scheme="https://thejeffrey.me/tags/B2B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Repair Service in a manufacturing company</title>
-    <link href="https://thejeffrey.me/2020/05/16/repair-service-in-a-manufacturing-company/"/>
-    <id>https://thejeffrey.me/2020/05/16/repair-service-in-a-manufacturing-company/</id>
-    <published>2020-05-16T14:30:00.000Z</published>
-    <updated>2020-05-16T15:11:59.196Z</updated>
-    
-    <content type="html"><![CDATA[<p>When I working in Panasonic Senai, we have a department by the name of C&amp;R, C&amp;R stands for Configuration and Repair. They are doing a repair service for the end-user who using the Panasonic laptop. Most of the customers have come from Panasonic Singapore or other corporate end-user. This repair service business model has good potential since Panasonic Taiwan is the only main provider in Asia. Previously, this Repair Service is provided by Panasonic Singapore, but due to the high labor costs, we try to undertake this business since we have an unfair advantage in the operation costs. Panasonic Singapore also agrees to move their customers to us.</p><p>Panasonic Senai becomes the window person who provides repair service. Customers ship their device to us by post service and C&amp;R members will receive it and start doing their operation. They have to record down all the serial numbers of the devices to prevent miss-match with the wrong customer. After they complete the diagnosis of device and feedback to the customer if they wanted to repair or send back to them. C&amp;R member has to check the warranty information if the device is still under warranty or the device was configured by the C&amp;R Configuration team. There are some complicated workflows involved in human processes. They have to do diagnosing with following the documentation and instruction provider by Panasonic Japan. They have to handle customer service and feedback, sometimes they have the warranty issues in the system.</p><p>We implemented a system to assist them to manage all the business processes, everything will log in system, so this will enhance the traceability of their repair jobs. This system will help them to control the goods-in and goods-out process to prevent human error. Since their repair parts can share with the Configuration team, we implement inventory management in the system and forecast the usage of the repair parts, this will help them on the inventory purchase request. This process will reduce the customer waiting time when their repair part is not available.</p><p>This system was developed by Japan members but handover to me to maintain it. I also do the enhancement with C&amp;R members to improve the business process and reduce operator workload. This gave me a good opportunity to learn new things and improve myself.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;When I working in Panasonic Senai, we have a department by the name of C&amp;amp;R, C&amp;amp;R stands for Configuration and Repair. They are doi
       
     
     </summary>
