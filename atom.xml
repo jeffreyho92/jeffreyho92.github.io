@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-10-11T16:50:28.685Z</updated>
+  <updated>2020-10-18T16:05:48.124Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wait to be ready will be waiting forever.</title>
+    <link href="https://thejeffrey.me/2020/10/19/wait-to-be-ready-will-be-waiting-forever/"/>
+    <id>https://thejeffrey.me/2020/10/19/wait-to-be-ready-will-be-waiting-forever/</id>
+    <published>2020-10-19T15:00:00.000Z</published>
+    <updated>2020-10-18T16:05:48.124Z</updated>
+    
+    <content type="html"><![CDATA[<p>“I don’t know what to do”<br>“I don’t know how to do it”<br>“I don’t have the chance to do it”<br>“I will be very hard working if I got the opportunity to do it”</p><p>When I look at people who hustle into something, work for his own business, I felt like if I got the chance to work on my own business, I will be very hard working too. However, how to get the chance is a big question for me. Most of the people have this feeling in their life too, we always waiting for someone to provide us the opportunity to spend time and hustle into something.</p><p>Refer to those articles that I read, and do some study on it, they always talk about some common points. If you want to master a skill, you have to understand it, it takes practice, time, and persistence. Ask yourself, who is the leader in the industry that is absolutely crushing it, who is the icon in that specific field, who is the first person that you recall in your mind. We can do some research on what makes them successful, what skills are required to achieve your target. Map out the list of things that you would like to implement and start practicing.</p><p>We should start with setting an intention, identify what skillset needs to learn, then comes practice, then comes failing, then comes learning, then it is a habit and becomes a part of you. Consistency is the key, consistency leads to habits. This learning process is a formula that we can implement in almost everything. </p><blockquote><p>It’s not what we do once in a while that shapes our lives. It’s what we do consistently. - Anthony Robbins</p></blockquote><p>Remind ourselves, if you wait to be ready, you will be waiting forever. Take the first step to get started is more important than waiting for the perfect time to start.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;“I don’t know what to do”&lt;br&gt;“I don’t know how to do it”&lt;br&gt;“I don’t have the chance to do it”&lt;br&gt;“I will be very hard working if I got t
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
   
   <entry>
     <title>Three Mental Models to get started</title>
@@ -481,31 +506,6 @@
       
       
         &lt;p&gt;Quality Control (QC) is a very important part of a manufacturing company, they have to ensure the products they produce have no issue and
-      
-    
-    </summary>
-    
-    
-      <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
-    
-      <category term="B2B" scheme="https://thejeffrey.me/tags/B2B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Production stock take in a manufacturing company</title>
-    <link href="https://thejeffrey.me/2020/05/30/production-stock-take-in-a-manufacturing-company/"/>
-    <id>https://thejeffrey.me/2020/05/30/production-stock-take-in-a-manufacturing-company/</id>
-    <published>2020-05-30T14:00:00.000Z</published>
-    <updated>2020-05-30T14:26:16.262Z</updated>
-    
-    <content type="html"><![CDATA[<p>In Panasonic Senai, we have a department managing the raw material for the production lines, they control the material that needed in the production to ensure the production lines can run smoothly. They have to work with Store members to prepare the raw material followed by the production plan, all the material will move to the production warehouse from the Store warehouse.</p><p>Before production lines start running and produce finish goods, they follow the material listing to collect all the raw materials needed for the production, each product has at least 20 raw materials. They need to collect and count the material carefully since different material has a different quantity for each type of product, they need to follow the material listing and production plan and split it into multiple production lines. Sometimes there have some quality issues in the production line that running haft way, they need to stop the production and collect back all the raw material and put the balance back to the production warehouse. These business processes are involved in a lot of manual processes and it costs a lot of manpower. In order to enhance these processes, top management requested the IT department to implement a system to optimize it.</p><p>When our department working on this project, I had been assigned to join in and support the implementation. After we study and understand the whole process, we implemented some new processes for them to work with the system to reduce the workload and prevent human error, instead of doing everything in manual ways. They can download the enhanced material listing that auto-generate with production plans and production lines. We also implement the QR code system to help them to collect material and manage production warehouse. This system can reduce around 50% of the workload and prevent inventory discrepancies. They do the stock check with more efficiently and accurately, they increate the stock check routine to weekly from twice a month. However, in the beginning, we need to put a lot of effort to implement it, design the layout, printout the QR code, and allocate it one by one.</p><p>This is a huge change for them, they need to adapt to the new process and change their working habit, this is not easy for them since they are used to the old manual process, they need to be open-minded to accept the new things that can improve their workload.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;In Panasonic Senai, we have a department managing the raw material for the production lines, they control the material that needed in the
       
     
     </summary>
