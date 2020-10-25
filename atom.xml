@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thejeffrey.me/"/>
-  <updated>2020-10-18T16:05:48.124Z</updated>
+  <updated>2020-10-25T16:46:24.044Z</updated>
   <id>https://thejeffrey.me/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Wait to be ready will be waiting forever.</title>
-    <link href="https://thejeffrey.me/2020/10/19/wait-to-be-ready-will-be-waiting-forever/"/>
-    <id>https://thejeffrey.me/2020/10/19/wait-to-be-ready-will-be-waiting-forever/</id>
+    <title>Simple is as simple does</title>
+    <link href="https://thejeffrey.me/2020/10/25/simple-is-as-simple-does/"/>
+    <id>https://thejeffrey.me/2020/10/25/simple-is-as-simple-does/</id>
+    <published>2020-10-25T15:30:00.000Z</published>
+    <updated>2020-10-25T16:46:24.044Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Occam’s Razor - William of Ockham</p></blockquote><p>Occam’s Razor is a mental model, problem-solving principle, to solve problems more quickly and efficiently. Explain in a nutshell, the simplest solution is often the best solution. When the thing can be simple, don’t make it complicated. When the complex solution and simple solution both work equally, we should choose the simple solution. The simpler a theory is, the more easily it can be verified. The simpler a solution is, the more easily it can be executed. </p><blockquote><p>Everything should be made as simple as possible, but not simpler. - Albert Einstein</p></blockquote><p>Sometimes, we want to implement a solution that can solve a lot of problems or issues. We want to put all the things that we have into one solution to prove that what we can do, but this will make things more complicated.  We try to create one method that can solve everything. However, this will make things complicated to understand, bring more mistakes to occur, and it is unlikely to lead to a manageable prediction.</p><p>A Mental model works best for making initial conclusions before the full information of the problem can be collected. We can have this mental model as a tool in our mental toolbox to give an immediate response when something happens.</p><p>Simple is as simple does, we can choose the easiest solution to get thing done. It is better than stuck in a complex solution and do nothing. You have got to see the forest before you can see the trees. </p><p>Nevertheless, if the complex solution does a better job than the simple solution, then we should pick the complex one. And making it too simple might not only be impracticable to solve the issue. Occam’s razor is not intended as a replacement for critical thinking. It is just a tool to help make that thinking more effective.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;Occam’s Razor - William of Ockham&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Occam’s Razor is a mental model, problem-solving principle, to solve 
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+      <category term="self-growth" scheme="https://thejeffrey.me/tags/self-growth/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Waiting to be ready will be waiting forever</title>
+    <link href="https://thejeffrey.me/2020/10/19/waiting-to-be-ready-will-be-waiting-forever/"/>
+    <id>https://thejeffrey.me/2020/10/19/waiting-to-be-ready-will-be-waiting-forever/</id>
     <published>2020-10-19T15:00:00.000Z</published>
-    <updated>2020-10-18T16:05:48.124Z</updated>
+    <updated>2020-10-25T16:45:43.261Z</updated>
     
     <content type="html"><![CDATA[<p>“I don’t know what to do”<br>“I don’t know how to do it”<br>“I don’t have the chance to do it”<br>“I will be very hard working if I got the opportunity to do it”</p><p>When I look at people who hustle into something, work for his own business, I felt like if I got the chance to work on my own business, I will be very hard working too. However, how to get the chance is a big question for me. Most of the people have this feeling in their life too, we always waiting for someone to provide us the opportunity to spend time and hustle into something.</p><p>Refer to those articles that I read, and do some study on it, they always talk about some common points. If you want to master a skill, you have to understand it, it takes practice, time, and persistence. Ask yourself, who is the leader in the industry that is absolutely crushing it, who is the icon in that specific field, who is the first person that you recall in your mind. We can do some research on what makes them successful, what skills are required to achieve your target. Map out the list of things that you would like to implement and start practicing.</p><p>We should start with setting an intention, identify what skillset needs to learn, then comes practice, then comes failing, then comes learning, then it is a habit and becomes a part of you. Consistency is the key, consistency leads to habits. This learning process is a formula that we can implement in almost everything. </p><blockquote><p>It’s not what we do once in a while that shapes our lives. It’s what we do consistently. - Anthony Robbins</p></blockquote><p>Remind ourselves, if you wait to be ready, you will be waiting forever. Take the first step to get started is more important than waiting for the perfect time to start.</p>]]></content>
     
@@ -489,31 +517,6 @@
     
     
       <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Quality Control in a manufacturing company</title>
-    <link href="https://thejeffrey.me/2020/06/06/quality-control-in-a-manufacturing-company/"/>
-    <id>https://thejeffrey.me/2020/06/06/quality-control-in-a-manufacturing-company/</id>
-    <published>2020-06-06T15:30:00.000Z</published>
-    <updated>2020-06-06T16:57:17.745Z</updated>
-    
-    <content type="html"><![CDATA[<p>Quality Control (QC) is a very important part of a manufacturing company, they have to ensure the products they produce have no issue and in good quality. When I working in Panasonic Senai, Quality Control is the most focused process along with the production since the vision of Panasonic is to produce the product that can be lasting a long period with good quality. When a customer reported a quality issue in a Panasonic product, we need to recall all the products produced in the same patch even the product was ship to oversea.</p><p>We do the Quality Control process starts from raw material, production line, finished goods, and packing before it ships to customers. These whole processes are running with some tools and managed in the system. When the raw material arrived in the store warehouse from vendors, QC members will go and take some raw materials as sampling for the Quality Control process, they doing this process with system control. The system will record down the material and quantity that being Quality Control process and reflect into stock quantity, this will help the store members to manage the stock and prevent stock missing or stock quantity not tally. </p><p>In the production line, we have some tools to test the functionality of the product, we use OCR with a high-quality camera to check the assemble process and installation process, this can prevent the human mistake like installing a part with the wrong direction. </p><p>During the packing process, production operators pack the completed product in a box with some user manual and some documentation. In order to prevent human mistakes like missing user manual with the packed box, we implement a system by the name of Weight Checker System. This system will pre-configured with the weight of the packed product and the allowed differences in milligrams, it will trigger an alert when the weight of the packed product is not in the range of the standard weight, it means something wrong in the packing.</p><p>This is a good opportunity for me to learn more about the business processes in a manufacturing company and the Quality Control is really important for a company, it can deploy a company if some bad thing happen.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Quality Control (QC) is a very important part of a manufacturing company, they have to ensure the products they produce have no issue and
-      
-    
-    </summary>
-    
-    
-      <category term="experience" scheme="https://thejeffrey.me/tags/experience/"/>
-    
-      <category term="B2B" scheme="https://thejeffrey.me/tags/B2B/"/>
     
   </entry>
   
