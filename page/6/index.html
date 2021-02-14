@@ -233,6 +233,115 @@
             
               
                 
+                <a class="post-title-link" href="/2016/04/29/unix/" itemprop="url">
+                  unix
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">Posted on</span>
+            <time itemprop="dateCreated" datetime="2016-04-29T09:26:13+08:00" content="2016-04-29">
+              2016-04-29
+            </time>
+          </span>
+
+          
+
+          
+            
+          
+
+          
+
+          
+          
+
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p>ufw</p>
+<p>sudo apt-get install ufw</p>
+<p>sudo ufw enable<br>sudo ufw allow ssh<br>sudo ufw allow 22<br>sudo ufw allow http<br>sudo ufw allow https<br>sudo ufw allow 3000</p>
+<p>sudo ufw deny http</p>
+<p>sudo ufw status</p>
+<p>$ vi /etc/ssh/sshd_config</p>
+<p>PermitRootLogin no<br>PubkeyAuthentication no<br>AllowUsers ramesh john jason<br>Port 222</p>
+<p>server timezone</p>
+<p>sudo dpkg-reconfigure tzdata</p>
+<p>Filter for brute-force interactive SSH logins<br>grep sshd.*Failed /var/log/auth.log | less</p>
+<p>Look for failed connections (i.e. no login attempted, could be a port scanner, etc.):<br>grep sshd.*Did /var/log/auth.log | less</p>
+<p>sudo apt-get install fail2ban</p>
+<p>/etc/apache2/pache2.conf</p>
+&lt;Directory /var/www/&gt;<br>    Options Indexes FollowSymLinks<br>    AllowOverride All<br>    Require all granted<br></Directory>
+
+<p>sudo a2enmod rewrite<br>sudo service apache2 restart</p>
+
+          
+        
+      
+    </div>
+    
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
                 <a class="post-title-link" href="/2016/04/29/hexo/" itemprop="url">
                   hexo
                 </a>
@@ -366,7 +475,7 @@
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/archives">
-              <span class="site-state-item-count">51</span>
+              <span class="site-state-item-count">52</span>
               <span class="site-state-item-name">posts</span>
             </a>
           </div>
@@ -376,7 +485,7 @@
           
             <div class="site-state-item site-state-tags">
               <a href="/tags">
-                <span class="site-state-item-count">9</span>
+                <span class="site-state-item-count">10</span>
                 <span class="site-state-item-name">tags</span>
               </a>
             </div>
